@@ -1,5 +1,3 @@
-# React + Vite
-
 # 📋 To-do Dashboard
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -11,7 +9,7 @@
 
 ## ✨ Демо
 
-![Демо приложения](demo.gif) <!-- Замените на реальный gif -->
+![Демо приложения](demo.gif)
 
 [👉 Живая демо-версия](#) <!-- Добавьте ссылку на Vercel/Netlify -->
 
